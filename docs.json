@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Transpilot Doc",
   "colors": {
     "primary": "#0077b6",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#0077b6",
+    "dark": "#0077b6"
   },
   "favicon": "/favicon.svg",
   "navigation": {
